@@ -1,0 +1,16 @@
+.background {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.background--active {
+    background-color: rgb(0, 37, 110);
+}
+
+.picture {
+    display: inline-block;
+}
+
+.picture img {
+    border: 5px solid rgb(0, 37, 110);
+}
