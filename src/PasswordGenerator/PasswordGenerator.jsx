@@ -31,7 +31,7 @@ const PasswordGenerator = () => {
         </div>
         <div>
           <label htmlFor="lengthRange">
-            Password Length:
+            Password Length: <span>({length})</span>
             <input
               id="lengthRange"
               type="range"
